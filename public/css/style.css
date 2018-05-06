@@ -1,0 +1,24 @@
+.view {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 1.25) ), url("https://thornews.files.wordpress.com/2014/10/viking-ship-by-fjord-in-western-norway.jpg")no-repeat center center;
+    background-size: cover;
+}
+@media (min-width: 768px) {
+    .view {
+        overflow: visible;
+        margin-top: -56px;
+    }
+}
+.navbar {
+    z-index: 1;
+}
+.navbar {
+    background-color: transparent;
+}
+.top-nav-collapse {
+    background-color: #4285F4;
+}
+@media only screen and (max-width: 768px) {
+    .navbar {
+        background-color: #4285F4;
+    }
+}

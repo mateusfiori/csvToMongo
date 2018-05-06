@@ -1,0 +1,18 @@
+{
+  "name": "desafiocsvtomongo",
+  "version": "1.0.0",
+  "description": "desafio CSV to Mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mateus Fiori",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.9",
+    "express": "^4.16.3",
+    "font-awesome": "^4.7.0",
+    "formidable": "^1.2.1",
+    "mdbootstrap": "^4.5.1"
+  }
+}
